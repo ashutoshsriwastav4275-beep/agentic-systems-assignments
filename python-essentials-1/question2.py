@@ -18,3 +18,4 @@ try:
 # If age is not numeric
 except ValueError:
     print("Invalid age input")
+    
